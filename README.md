@@ -1,7 +1,7 @@
 # ResetOffhandItem
 オフハンドに持っているブロックを置いてそのブロックがなくなった時インベントリに同じアイテムがあれば自動で再補充してくれるプラグイン
 
-[![Image from Gyazo](https://i.gyazo.com/d393341df4b3319c37db675f29a414f0.gif)](https://gyazo.com/d393341df4b3319c37db675f29a414f0)
+[![Image from Gyazo](https://i.gyazo.com/15e3063097114bdf035140192aabf60b.gif)](https://i.gyazo.com/15e3063097114bdf035140192aabf60b.gif)
 
 # Permission
 - `resetoffhanditem.use` 使えるようになる（
