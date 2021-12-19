@@ -1,0 +1,5 @@
+name: ResetOffhandItem
+main: net.simplyrin.resetoffhanditem.ResetOffhandItem
+version: "1.0"
+author: SimplyRin
+api-version: 1.17
